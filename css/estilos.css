@@ -4,8 +4,11 @@
 
 body {
     background-color: #FFD147;
+
     font: normal 15pt Arial;
 }
+
+
 
 /*----------/*
   Cabeçalho
@@ -13,8 +16,12 @@ body {
 
 header {
     color: white;
+
     text-align: center;
+    font-style: italic;
 }
+
+
 
 /*----------/*
   Section
@@ -23,11 +30,60 @@ header {
 section {
     background-color: white;
     border-radius: 20px;
+
     padding: 15px;
-    width: 500px;
+
+    width: 30%;
     margin:auto;
+
     box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.377);
 }
+
+.S-Cab_Imagem {
+    display: block;
+
+    margin-left: auto;
+    margin-right: auto 
+}
+
+.S-Login {
+    text-align: center;
+
+}
+
+.S-Log_Usuario {
+    margin-bottom: 0;
+    margin-right: 120px;
+    
+    font-size: 16px;
+}
+
+.S-Log_Senha {
+    margin-bottom: 0;
+    margin-right: 130px;
+    
+    font-size: 16px;
+}
+
+.Log-Usuario_Admin, .Log-Senha_Admin {
+    text-align: center;
+    font-weight: bold;
+
+    width: 50%;
+}
+
+#Log-Botao_Esqueci {
+    text-align: center;
+
+    padding: 3%;
+}
+
+#Log-Botao_Entrar  {
+    text-align: center;
+    
+    padding: 3%;   
+}
+
 
 /*----------/*
   Rodapé
