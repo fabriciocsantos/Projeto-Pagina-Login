@@ -3,7 +3,7 @@
 /*----------*/
 
 body {
-    background-color: #FFD147;
+    background-image: linear-gradient(to left, blue, rgb(62, 62, 240), rgb(94, 94, 245), rgb(161, 161, 245));
 
     font: normal 15pt Arial;
 }
