@@ -15,5 +15,7 @@ function login () {
 
     if (input = 'Admin') {
         window,alert('Verifique o edital da empresa!')
+    } else {
+        window,alert('Credenciais incorretas!')
     }
 }
