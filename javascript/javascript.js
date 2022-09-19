@@ -4,18 +4,22 @@
 /*------------*/
 
 function esqueci () {
-    window,alert('Verifique o edital da empresa!')
+    window.alert('Verifique o edital da empresa!')
 }
 
 /*------------/*
- Login
+Login
 /*------------*/
 
-function login () {
+/*var input =  window.document.get
+var entrar = window.document.getElementById('Botao-Login')
 
-    if (input = 'Admin') {
-        window,alert('Verifique o edital da empresa!')
-    } else {
-        window,alert('Credenciais incorretas!')
+entrar.addEventListener ('click', clicar)
+
+function clicar() {
+    if (input = "Admin"){
+        window.alert('Entrou')
+    }else {
+        window.alert('Verifique o edital da empresa!')
     }
-}
+}*/
