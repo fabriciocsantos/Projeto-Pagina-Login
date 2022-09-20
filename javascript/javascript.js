@@ -8,18 +8,18 @@ function esqueci () {
 }
 
 /*------------/*
-Login
+    Login
 /*------------*/
 
-/*var input =  window.document.get
-var entrar = window.document.getElementById('Botao-Login')
 
-entrar.addEventListener ('click', clicar)
+function enviar(){
 
-function clicar() {
-    if (input = "Admin"){
-        window.alert('Entrou')
+    var dados1 = document.getElementById("Log-Usuario_Admin").value;
+    var dados2 = document.getElementById("Log-Senha_Admin").value;
+
+    if (dados1 && dados2 == "Admin"){
+        alert('Entrou')
     }else {
-        window.alert('Verifique o edital da empresa!')
+        alert('Verifique o edital da empresa!')
     }
-}*/
+}

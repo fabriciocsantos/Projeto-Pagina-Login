@@ -103,7 +103,7 @@ section {
     font-size: 16px;
 }
 
-.Log-Usuario_Admin, .Log-Senha_Admin {
+#Log-Usuario_Admin, #Log-Senha_Admin {
     text-align: center;
     font-weight: bold;
 
