@@ -20,7 +20,7 @@ header {
 
     text-align: center;
     font-style: italic;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Cambria', Times, serif;
 }
 
 h1:after{
@@ -129,6 +129,10 @@ section {
     padding: 1%;
 }
 
+button {
+    cursor: pointer;
+}
+
 /*----------/*
   Rodapé
 /*----------*/
@@ -138,5 +142,3 @@ footer {
     text-align: center;
     font-style: italic;
 }
-
-/*rgb(161, 161, 245), rgb(121, 121, 241),rgb(84, 84, 243), rgb(121, 121, 241), rgb(161, 161, 245)*/
