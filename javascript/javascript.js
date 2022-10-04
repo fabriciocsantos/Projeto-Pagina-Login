@@ -18,7 +18,7 @@ function enviar(){
     var dados2 = document.getElementById("Log-Senha_Admin").value;
 
     if (dados1 == "Admin" && dados2 == "Admin"){
-        alert('Entrou')
+        window.location.href = "file:///C:/Users/Fabr%C3%ADcio/OneDrive/Documentos/MeusProjetos/Projeto-Pagina-Empresa/index.html";
     }else {
         alert('Credenciais incorretas!')
     }
