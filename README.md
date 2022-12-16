@@ -1,3 +1,4 @@
-# Projeto-Pagina-Login
- Criando uma pagina simples de login para aprendizado
+# Projeto-Pagina-Login.
+# Autor: Fabrício Cordeiro Santos.
+ Criando uma página simples de login para aprendizado.
  
